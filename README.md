@@ -1,4 +1,4 @@
-### Geometrics, Physics for Learning research group, leading by Dr.Dongping Yang and Dr.Xian Wei 👋
+### Geometrics, Physics for Learning (GPL) research group, leading by Dr.Dongping Yang and Dr.Xian Wei 👋
 
 <!--
 **MVPR-Group/MVPR-Group** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
