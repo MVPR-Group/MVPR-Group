@@ -1,4 +1,4 @@
-### Geometric AI research group, leading by Dr.Xian Wei 👋
+### Geometric intelligence and Optimization (GO) research group, leading by Dr.Xian Wei 👋
 
 <!--
 **MVPR-Group/MVPR-Group** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
