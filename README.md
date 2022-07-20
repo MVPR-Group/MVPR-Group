@@ -1,4 +1,4 @@
-### Geometric, Physical and Neural Learning (GPN) research group, leading by Dr.Dongping Yang and Dr.Xian Wei 👋
+### Geometric AI research group, leading by Dr.Xian Wei 👋
 
 <!--
 **MVPR-Group/MVPR-Group** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
